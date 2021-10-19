@@ -6,8 +6,7 @@
 - 🧂 Currently work as Full-Stack Software Developer at [Salt](https://salt.dev/).
 - My portfolio site: [https://www.rawa.se](https://www.rawa.se)
   
-<img  alt="www.rawa.se" width="350px" src="https://github.com/Rawa08/Rawa08/raw/main/media/desktop.png" />
-<img  alt="www.rawa.se" width="80px" src="https://github.com/Rawa08/Rawa08/raw/main/media/mobile.png" />  
+<img  alt="www.rawa.se" width="350px" src="https://github.com/Rawa08/Rawa08/raw/main/media/desktop.png" />&nbsp;&nbsp;<img  alt="www.rawa.se" width="80px" src="https://github.com/Rawa08/Rawa08/raw/main/media/mobile.png" />  
 <br />
 <br />
 <br />
@@ -17,11 +16,11 @@
 
 ## Front-end:
 
-<img  alt="www.rawa.se" width="150px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/react.png" />&nbsp;&nbsp;
-<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/next.png" /> &nbsp;&nbsp;
-<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/bootstrap.png" /> &nbsp;&nbsp;
-<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/js.png" /> &nbsp;&nbsp;
-<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/html.png" /> &nbsp;&nbsp;
+<img  alt="www.rawa.se" width="150px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/react.png" />&nbsp;
+<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/next.png" /> &nbsp;
+<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/bootstrap.png" /> &nbsp;
+<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/js.png" /> &nbsp;
+<img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/html.png" /> &nbsp;
 <img  alt="www.rawa.se" width="130px" src="https://github.com/Rawa08/Rawa08/raw/main/media/frontend/css.png" /> 
 
 <br /><br />
